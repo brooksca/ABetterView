@@ -1,1 +1,2 @@
-﻿<%@ Application Codebehind="Global.asax.vb" Inherits="ABetterView.MvcApplication" Language="VB" %>
+﻿<%@ Application Inherits="Umbraco.Web.UmbracoApplication" Language="C#" %>
+          
